@@ -1,0 +1,19 @@
+{
+  "name": "exteon/patterns",
+  "version": "1.0.0",
+  "description": "Common code patterns library",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Dinu Marina"
+    }
+  ],
+  "license": "Apache-2.0",
+  "autoload": {
+    "psr-4": {
+      "Exteon\\Patterns\\": [
+        "src"
+      ]
+    }
+  }
+}
